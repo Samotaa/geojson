@@ -1,0 +1,4102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 1,
+        "Name": "Мядель"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.85436248779297,
+          54.935525361205656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 2,
+        "Name": "Нароч"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.76956176757812,
+          54.85744197506263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 3,
+        "Name": "Освейское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.151264190673828,
+          56.04510266360655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 4,
+        "Name": "Дрисвяты"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.03409194946289,
+          55.612001915699196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 5,
+        "Name": "Червоное"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.96947479248047,
+          52.4040945640241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 6,
+        "Name": "Лукомское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.08149719238281,
+          54.66539300524864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 7,
+        "Name": "Нещедро"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.061584472656246,
+          55.89225616635061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 6,
+        "Name": "Выгонощанское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.946273803710938,
+          52.683667149089445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 9,
+        "Name": "Богинское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.82638168334961,
+          55.39500437484542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 10,
+        "Name": "Свирь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.486835479736328,
+          54.79939850350271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 11,
+        "Name": "Долгое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.777973175048828,
+          55.46104678443926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 12,
+        "Name": "Высокое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.799602508544922,
+          55.43799806655744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 13,
+        "Name": "Ричи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.715660095214844,
+          55.692293896284056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 14,
+        "Name": "Сердово"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.435192108154297,
+          55.40572672790648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 15,
+        "Name": "Гиньково"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.13924789428711,
+          55.303014020667526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 15,
+        "Name": "Струсто"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.044391632080075,
+          55.70245182297971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 16,
+        "Name": "Береже"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.011775970458984,
+          55.65231376793842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 17,
+        "Name": "Болойсо"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.05984115600586,
+          55.668388173007095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 18,
+        "Name": "Волосо"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1281623840332,
+          55.75040025548764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 19,
+        "Name": "Южное Волосо"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.138633728027344,
+          55.731653242471914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 20,
+        "Name": "Снуды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.062244415283203,
+          55.75320187033113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 21,
+        "Name": "Войсо"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.096405029296875,
+          55.674099775230026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 22,
+        "Name": "Несьпиш"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.10601806640625,
+          55.655412962048786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 23,
+        "Name": "Дерба"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.12970733642578,
+          55.66693593781173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 24,
+        "Name": "Недрово"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.13451385498047,
+          55.68097195393251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 25,
+        "Name": "Болдук"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.417484283447266,
+          54.974658086290496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 26,
+        "Name": "Глубля"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.382122039794922,
+          54.96066536804422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 27,
+        "Name": "Суя"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.808212280273434,
+          55.32426153232427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 28,
+        "Name": "Яново"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.81439208984375,
+          55.27813753254303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 29,
+        "Name": "Паульское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.90880584716797,
+          55.24683651455414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 30,
+        "Name": "Веркудское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.899707794189453,
+          55.206793989287455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 31,
+        "Name": "Черствятское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.85902404785156,
+          55.199838735748095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 32,
+        "Name": "Отолово"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.890781402587887,
+          55.14886180758612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 33,
+        "Name": "Трща"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.84812355041504,
+          55.109113448381684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 34,
+        "Name": "Бельское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.872928619384766,
+          55.10975169748151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 35,
+        "Name": "Урода"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.930864334106445,
+          55.091533043538476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 36,
+        "Name": "Чёрная Урода"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.918590545654293,
+          55.11971688010704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 37,
+        "Name": "Пазушно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.96579742431641,
+          55.147733696280056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 38,
+        "Name": "Берёзовское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.97669792175293,
+          55.20904683905813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 39,
+        "Name": "Глыбочь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.99038791656494,
+          55.23044255397023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 40,
+        "Name": "Плесно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.99819850921631,
+          55.22420128566976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 41,
+        "Name": "Усвея"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.06312942504883,
+          55.232645120765355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 42,
+        "Name": "Линко"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.018969535827637,
+          55.22601257810393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 43,
+        "Name": "Островито"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.004850387573242,
+          55.22848461442386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 44,
+        "Name": "Плотишино"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.999142646789547,
+          55.24119726538123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 45,
+        "Name": "Долгое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.99585962295532,
+          55.246934368650216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 46,
+        "Name": "Ашитик"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.005880355834957,
+          55.249350065270555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 47,
+        "Name": "Рукшансоке "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.982534408569332,
+          55.266255831358215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 48,
+        "Name": "Глыбочка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.97221326828003,
+          55.28621554779667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 49,
+        "Name": "Линец"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.97171974182129,
+          55.290418887306714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 50,
+        "Name": "Туровля"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.862285614013672,
+          55.33695575893227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 52,
+        "Name": "Моховое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.831129074096683,
+          55.352012672604474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 53,
+        "Name": "Моховое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.805422782897946,
+          55.34879190169058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 54,
+        "Name": "Канаши"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.710665702819824,
+          55.33615028462019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 55,
+        "Name": "Усомля"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.686590194702145,
+          55.35315939900635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 56,
+        "Name": "Красно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.67431640625,
+          55.34696180150994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 57,
+        "Name": "Воронец"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.613376617431637,
+          55.346132128234714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 58,
+        "Name": "Щаты"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.802719116210938,
+          55.3051148565123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 59,
+        "Name": "Гомель"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.760147094726562,
+          55.30731328650824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 60,
+        "Name": "Невидо"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.397855758666992,
+          55.32055014416432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 61,
+        "Name": "Лесово"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.384294509887695,
+          55.33998224331065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 62,
+        "Name": "Островно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.384380340576172,
+          55.34437511568862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 63,
+        "Name": "Ореховно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3916974067688,
+          55.35840463891124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 64,
+        "Name": "Забелино"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.379659652709957,
+          55.35755690884571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 65,
+        "Name": "Дроздово"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.40388536453247,
+          55.372282874384155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 66,
+        "Name": "Долгое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.414528369903564,
+          55.37846431741656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 67,
+        "Name": "Белое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.420107364654537,
+          55.39192115997422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 68,
+        "Name": "Ветрино"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.464202880859375,
+          55.40473990558946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 69,
+        "Name": "Куровичи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.49027395248413,
+          55.39786801516357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 70,
+        "Name": "Навлицкое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.51673126220703,
+          55.351500294754416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 71,
+        "Name": "Островно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.57295036315918,
+          55.291359690121894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 72,
+        "Name": "Солонец"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.550977706909176,
+          55.27571747430478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 73,
+        "Name": "Матырино"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.56342315673828,
+          55.24037761161493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 74,
+        "Name": "Ухвище"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.480145931243896,
+          55.245968048895925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 75,
+        "Name": "Жадовно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.459310531616207,
+          55.24808413623609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 76,
+        "Name": "Мередеж"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.46926689147949,
+          55.25852837361411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 77,
+        "Name": "Журавно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.462657928466797,
+          55.267649548224746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 78,
+        "Name": "Сушино"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.485918045043945,
+          55.28444365795372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 79,
+        "Name": "Шо"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.218212127685547,
+          55.185532565186726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 80,
+        "Name": "Ельно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.89377212524414,
+          55.56689269066758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 81,
+        "Name": "Чёрное"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.86553382873535,
+          55.536742493390186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 82,
+        "Name": "Белое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.823562622070312,
+          55.538248124221475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 83,
+        "Name": "Плоское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.79541015625,
+          55.50819746035527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 84,
+        "Name": "Тоболки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.800731658935543,
+          55.49740569001396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 85,
+        "Name": "Яжгиня"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.777214050292965,
+          55.492470629467604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 86,
+        "Name": "Бережное"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.757816314697262,
+          55.5031665300613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 87,
+        "Name": "Долгое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7724289894104,
+          55.501671709503405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 88,
+        "Name": "Лопухи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.793564796447754,
+          55.52216889382467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 89,
+        "Name": "Сухое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.75899648666382,
+          55.51237118628353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 90,
+        "Name": "Высокое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.766292095184326,
+          55.515463224752175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 91,
+        "Name": "Ближнее"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.77867317199707,
+          55.537276756090314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 92,
+        "Name": "Большое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.821931838989258,
+          55.57189121193975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 93,
+        "Name": "Кургансоке"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.81515121459961,
+          55.5735653316986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 94,
+        "Name": "Илово"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.985095977783203,
+          55.42599377342306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 95,
+        "Name": "Стречно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.048095703124996,
+          55.42813679520218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 96,
+        "Name": "Укля"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.32711791992187,
+          55.591151406351784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 97,
+        "Name": "Обстерно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.370891571044922,
+          55.61587985760705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 98,
+        "Name": "Нобисто"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.430543899536133,
+          55.64613886095528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 99,
+        "Name": "Подявы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.401447296142578,
+          55.65955290890183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 100,
+        "Name": "Петкуны"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.370880842208862,
+          55.65091541840905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 101,
+        "Name": "Горушка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.34660148620605,
+          55.63666877897947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 102,
+        "Name": "Икзань"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.29132652282715,
+          55.628189781375404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 103,
+        "Name": "Иново"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.248668670654297,
+          55.57475415601796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 104,
+        "Name": "Густаты"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.27956771850586,
+          55.50093035467986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 105,
+        "Name": "Висяты"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.363252639770508,
+          55.53275957906664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 106,
+        "Name": "Сумовка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.49701976776123,
+          55.593867449197575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 107,
+        "Name": "Середник"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.478694915771484,
+          55.59401294618788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 108,
+        "Name": "Глубокое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.47002601623535,
+          55.59394019776018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 109,
+        "Name": "Осиновка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.57662773132324,
+          55.610571827830775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 110,
+        "Name": "Воронь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.58190631866455,
+          55.60531156446196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 111,
+        "Name": "Мёрское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.61336326599121,
+          55.61699469492387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 112,
+        "Name": "Дворище"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.60190486907959,
+          55.62697834622158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 113,
+        "Name": "Щёлно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.572808265686035,
+          55.68518177685974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 114,
+        "Name": "Идолта"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.573881149291992,
+          55.721647930052676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 115,
+        "Name": "Дубро"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.208156585693356,
+          55.77150402141853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 116,
+        "Name": "Обабье"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.22811222076416,
+          55.75716243075394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 117,
+        "Name": "Ельня Большая"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.199745178222656,
+          55.756896795991096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 118,
+        "Name": "Малая Ельня"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.184638977050778,
+          55.762281583657895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 119,
+        "Name": "Каменское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.157044410705566,
+          55.790087121938804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 120,
+        "Name": "Закаменка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.148826122283936,
+          55.78564729075878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 121,
+        "Name": "Усач"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.123613357543945,
+          55.812206345283414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 122,
+        "Name": "Ильха"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.101898193359375,
+          55.82346615931017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 123,
+        "Name": "Плюсы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.057051658630368,
+          55.81905424353526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 124,
+        "Name": "Островиты"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.072930335998535,
+          55.790292210608186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 125,
+        "Name": "Кривец"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.095718383789062,
+          55.79997840415629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 126,
+        "Name": "Войты"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.105331420898438,
+          55.77131090372589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 127,
+        "Name": "Буже"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.915302276611328,
+          55.67138928829547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 128,
+        "Name": "Савонар"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.879167556762695,
+          55.66001287597119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 129,
+        "Name": "Ожехово"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.874876022338864,
+          55.67356737297342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 130,
+        "Name": "Сита"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.789302825927734,
+          55.674148175075885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 131,
+        "Name": "Муйса"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.714801788330078,
+          55.6183033765429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 132,
+        "Name": "Оболе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.70913696289062,
+          55.53484823078213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 133,
+        "Name": "Опса"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.823678016662598,
+          55.55553446240161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 134,
+        "Name": "Илгайцы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.78535461425781,
+          55.574487280221945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 135,
+        "Name": "Даубле"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.853332519531246,
+          55.58688295920994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 136,
+        "Name": "Рожево"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.905517578125,
+          55.614037883021986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 137,
+        "Name": "Лисно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.41888427734375,
+          56.07471813748169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 138,
+        "Name": "Чёрное"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.246925354003906,
+          52.48612543090344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 139,
+        "Name": "Белое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.149765014648438,
+          52.443454960583146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 140,
+        "Name": "Споровское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.336532592773438,
+          52.415194403127344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 141,
+        "Name": "Селява"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1551399230957,
+          54.555241262910705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 142,
+        "Name": "Черейское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.310064315795895,
+          54.63818105534579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 143,
+        "Name": "Ямное"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.332637786865234,
+          54.74974328556911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 144,
+        "Name": "Жеринское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.326586723327637,
+          54.82954307181507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 145,
+        "Name": "Лепельское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.691825866699215,
+          54.9091854418505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 146,
+        "Name": "ольшица"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.40240478515625,
+          54.856058604544806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 147,
+        "Name": "Зароновское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.83852386474609,
+          55.31254017518652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 148,
+        "Name": "Лосвидо"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.03490447998047,
+          55.373258314187176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 149,
+        "Name": "Сосна"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.07266998291016,
+          55.35140269822171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 150,
+        "Name": "Добеевское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.534296989440914,
+          55.24742363551751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 151,
+        "Name": "Машино"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.575452804565426,
+          55.26165866418454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 152,
+        "Name": "Лесковичи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.61939811706543,
+          55.24884247537886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 153,
+        "Name": "Разван"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.646692276000977,
+          55.23563062769554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 154,
+        "Name": "Будовесть"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.66145515441895,
+          55.2048838646159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 155,
+        "Name": "Сосна"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.68402862548828,
+          55.17827953018126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 156,
+        "Name": "Городно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.699091911315914,
+          55.16585318999923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 157,
+        "Name": "Лезвинка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.715142250061035,
+          55.15683125045402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 158,
+        "Name": "Городно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.83333110809326,
+          55.14981822479509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 159,
+        "Name": "Долгое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8417854309082,
+          55.13826611409422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 160,
+        "Name": "Мелкое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.84624862670898,
+          55.128354632585925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 161,
+        "Name": "Островно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.859766960144043,
+          55.134193872494286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 162,
+        "Name": "Луковское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.86307144165039,
+          55.14800346492895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 163,
+        "Name": "глубокое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.876203536987305,
+          55.15312872270834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 164,
+        "Name": "Белое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.877619743347164,
+          55.1652158373648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 165,
+        "Name": "Шевино"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.927272796630856,
+          55.190334524054116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 166,
+        "Name": "Лётнцы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.967312812805176,
+          55.201112323738556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 167,
+        "Name": "Белое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.742393493652344,
+          55.013654286370006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 168,
+        "Name": "Боровно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.87903594970703,
+          55.01011074314379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 169,
+        "Name": "Вымно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.350074768066406,
+          55.448976484855926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 170,
+        "Name": "Вослепно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.351791381835938,
+          55.49650624230171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 171,
+        "Name": "Пренц"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.32981872558594,
+          55.4743782242895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 172,
+        "Name": "Арлейко"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.387067794799805,
+          55.481236807133826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 173,
+        "Name": "Плав"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.418910980224606,
+          55.50379846965286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 174,
+        "Name": "Тиосто"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.489635467529293,
+          55.59668029540349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 175,
+        "Name": "Медесно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.44435977935791,
+          55.5838753654205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 186,
+        "Name": "Танай"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.371789932250977,
+          55.566067630848444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 187,
+        "Name": "Сосно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.436248779296875,
+          55.6840688792304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 188,
+        "Name": "Чернясто"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.456933975219727,
+          55.70361256081065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 189,
+        "Name": "Езерище"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.012245178222656,
+          55.85720196920263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 190,
+        "Name": "Белое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.896545410156246,
+          55.83060131378955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 191,
+        "Name": "Чёрное"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.882082939147946,
+          55.83809663715229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 192,
+        "Name": "Исса"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.843630790710453,
+          55.81333970742995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 193,
+        "Name": "Апуково"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.71964836120605,
+          55.74264646211136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 194,
+        "Name": "Ким"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.73462581634522,
+          55.752139212524895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 195,
+        "Name": "Малое Белое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.55665588378906,
+          55.685036618095474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 196,
+        "Name": "Свино"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.588413238525387,
+          55.713574142662665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 197,
+        "Name": "Болныро"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.421901702880863,
+          55.60434185364845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 198,
+        "Name": "Червятка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.169902801513672,
+          55.55747627256667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 199,
+        "Name": "Тросно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.090166091918945,
+          55.544415751913334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 200,
+        "Name": "Мошня"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.408340454101562,
+          55.50593726685785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 201,
+        "Name": "Рассолай"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.308261871337887,
+          55.45744554941602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 202,
+        "Name": "Усвечье"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.033775329589844,
+          56.01450489282778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 203,
+        "Name": "Межево"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.92897605895996,
+          55.94569135867933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 204,
+        "Name": "Росона"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.795423507690426,
+          55.898271904521955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 205,
+        "Name": "Велье"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.67144107818603,
+          55.892352425503915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 206,
+        "Name": "Вальковское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.720321655273438,
+          55.971492770905385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 207,
+        "Name": "Белое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.46883773803711,
+          55.996940990857524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 208,
+        "Name": "Белое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.338546752929684,
+          56.052964003371834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 209,
+        "Name": "Яковское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.824691772460934,
+          55.732909767146936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 210,
+        "Name": "Званое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.599643707275387,
+          55.616461515814294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 211,
+        "Name": "белое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.628826141357422,
+          55.6231015020805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 212,
+        "Name": "Завелье"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.624277114868164,
+          55.603250900327275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Белое",
+        "id": 213
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.799457550048828,
+          55.57640389340443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 214,
+        "Name": "Дохнарское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.73800277709961,
+          55.61151714599359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 215,
+        "Name": "Селявское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.780574798583984,
+          55.82124820954297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 216,
+        "Name": "Убежо"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.772335052490234,
+          55.804416601963965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 217,
+        "Святое озеро": "Святое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.319669246673584,
+          53.859525415412996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 218,
+        "Печерское озеро": "Печерское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.295250415802,
+          53.925519886717545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 219,
+        "Name": "Белое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.19361114501953,
+          53.782397985652395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 220,
+        "Name": "Гадынь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.49517154693603,
+          52.37354250195652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 221,
+        "Name": "Песчаное"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.473861694335938,
+          51.97324932122805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 222,
+        "Name": "Луковское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.268455505371094,
+          51.89365590985301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 223,
+        "Name": "Ореховское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.937149047851562,
+          51.65658383755261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 224,
+        "Name": "олтушское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.958778381347656,
+          51.694692717116375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 225,
+        "Name": "Белое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.708710670471188,
+          51.81816602952115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 226,
+        "Name": "Рогозянское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.72446060180664,
+          51.82691958902927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 227,
+        "Name": "Меднянское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.74184131622314,
+          51.874636341056366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 228,
+        "Name": "Страдечское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.74647617340088,
+          51.88153782513044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 229,
+        "Name": "Мухавецкое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.800120353698727,
+          52.02667327656635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 230,
+        "Name": "Голубое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7139892578125,
+          52.04238183572285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 231,
+        "Name": "Бобровское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.784225463867188,
+          52.63785510419495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 232,
+        "Name": "Берштовское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.378790855407715,
+          53.85807006204299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 233,
+        "Name": "Долгое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.348793029785153,
+          53.814841989541314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 234,
+        "Name": "Глинец"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.33171272277832,
+          53.797545868994206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 235,
+        "Name": "Молочное"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.155759811401367,
+          53.88145082960089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 235,
+        "Name": "Веровское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.20734405517578,
+          53.88304449693692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 236,
+        "Name": "Вечера"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.124656677246094,
+          52.710975334615256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 237,
+        "Name": "Зеленское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.59829711914062,
+          54.83134757003016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 238,
+        "Name": "Ситненское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.648808479309086,
+          54.82390658542712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 239,
+        "Name": "Шелохово"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.608639717102047,
+          54.98130784528517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 240,
+        "Name": "Буёвское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.748844146728516,
+          55.013654286370006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 241,
+        "Name": "Вымно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.619754791259766,
+          55.255348919821195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 242,
+        "Name": "Яновичское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6723690032959,
+          55.29403535802893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 243,
+        "Name": "Сенно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.68780517578125,
+          54.84815271989618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 243,
+        "Name": "Богдановское"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.651584625244144,
+          54.866333938349605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 243,
+        "Name": "Палик"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4271240234375,
+          54.51470449573694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 244,
+        "Name": "Дожмерицкое"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.356056213378903,
+          54.74052833980171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 245,
+        "Name": "Манец"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.390560150146484,
+          54.7922732856442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 246,
+        "Name": "Плавно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.420257568359375,
+          54.818788567627045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 247,
+        "Name": "Оконо"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.550033569335938,
+          54.81987650974958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": 248,
+        "Name": "Береща"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.568058013916016,
+          54.78504782417666
+        ]
+      }
+    }
+  ]
+}
