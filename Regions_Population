@@ -32377,108 +32377,108 @@
         "name": "Минская область",
         "population": {
           "1999": {
-            "population": 3239100,
-            "urban": 2488100,
-            "rural": 751000
+            "population": "3239100",
+            "urban": "2488100",
+            "rural": "751000"
           },
           "2000": {
-            "population": 3230600,
-            "urban": 2490200,
-            "rural": 740400
+            "population": "3230600",
+            "urban": "2490200",
+            "rural": "740400"
           },
           "2001": {
-            "population": 3225300,
-            "urban": 2495900,
-            "rural": 729400
+            "population": "3225300",
+            "urban": "2495900",
+            "rural": "729400"
           },
           "2002": {
-            "population": 3221000,
-            "urban": 2503400,
-            "rural": 717600
+            "population": "3221000",
+            "urban": "2503400",
+            "rural": "717600"
           },
           "2003": {
-            "population": 3215500,
-            "urban": 2510500,
-            "rural": 705000
+            "population": "3215500",
+            "urban": "2510500",
+            "rural": "705000"
           },
           "2004": {
-            "population": 3213800,
-            "urban": 2519600,
-            "rural": 694200
+            "population": "3213800",
+            "urban": "2519600",
+            "rural": "694200"
           },
           "2005": {
-            "population": 3215100,
-            "urban": 2536800,
-            "rural": 678300
+            "population": "3215100",
+            "urban": "2536800",
+            "rural": "678300"
           },
           "2006": {
-            "population": 3216400,
-            "urban": 2547500,
-            "rural": 668900
+            "population": "3216400",
+            "urban": "2547500",
+            "rural": "668900"
           },
           "2007": {
-            "population": 3223100,
-            "urban": 2562500,
-            "rural": 660600
+            "population": "3223100",
+            "urban": "2562500",
+            "rural": "660600"
           },
           "2008": {
-            "population": 3235400,
-            "urban": 2581700,
-            "rural": 653700
+            "population": "3235400",
+            "urban": "2581700",
+            "rural": "653700"
           },
           "2009": {
-            "population": 3245400,
-            "urban": 2603300,
-            "rural": 642100
+            "population": "3245400",
+            "urban": "2603300",
+            "rural": "642100"
           },
           "2010": {
-            "population": 3263600,
-            "urban": 2631200,
-            "rural": 632400
+            "population": "3263600",
+            "urban": "2631200",
+            "rural": "632400"
           },
           "2011": {
-            "population": 3275600,
-            "urban": 2651900,
-            "rural": 623700
+            "population": "3275600",
+            "urban": "2651900",
+            "rural": "623700"
           },
           "2012": {
-            "population": 3288700,
-            "urban": 2674200,
-            "rural": 614500
+            "population": "3288700",
+            "urban": "2674200",
+            "rural": "614500"
           },
           "2013": {
-            "population": 3302900,
-            "urban": 2693100,
-            "rural": 609800
+            "population": "3302900",
+            "urban": "2693100",
+            "rural": "609800"
           },
           "2014": {
-            "population": 3324500,
-            "urban": 2717400,
-            "rural": 607100
+            "population": "3324500",
+            "urban": "2717400",
+            "rural": "607100"
           },
           "2015": {
-            "population": 3346100,
-            "urban": 2738000,
-            "rural": 608100
+            "population": "3346100",
+            "urban": "2738000",
+            "rural": "608100"
           },
           "2016": {
-            "population": 3377200,
-            "urban": 2762500,
-            "rural": 614700
+            "population": "3377200",
+            "urban": "2762500",
+            "rural": "614700"
           },
           "2017": {
-            "population": 3397900,
-            "urban": 2779600,
-            "rural": 618300
+            "population": "3397900",
+            "urban": "2779600",
+            "rural": "618300"
           },
           "2018": {
-            "population": 3408900,
-            "urban": 2788300,
-            "rural": 620600
+            "population": "3408900",
+            "urban": "2788300",
+            "rural": "620600"
           },
           "2019": {
-            "population": 3421200,
-            "urban": 2799000,
+            "population": "3421200",
+            "urban": "2799000",
             "rural": "622200"
           },
           "2020": {
