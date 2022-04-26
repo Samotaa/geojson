@@ -7,119 +7,119 @@
         "name": "Гродненская область",
         "population": {
           "1999": {
-            "population": 1185200,
-            "urban": 741100,
-            "rural": 444100
+            "population": "1185200",
+            "urban": "741100",
+            "rural": "444100"
           },
           "2000": {
-            "population": 1178300,
-            "urban": 741700,
-            "rural": 436600
+            "population": "1178300",
+            "urban": "741700",
+            "rural": "436600"
           },
           "2001": {
-            "population": 1170100,
-            "urban": 742100,
-            "rural": 428000
+            "population": "1170100",
+            "urban": "742100",
+            "rural": "0428000"
           },
           "2002": {
-            "population": 1165172,
-            "urban": 742009,
-            "rural": 423163
+            "population": "1165172",
+            "urban": "742009",
+            "rural": "423163"
           },
           "2003": {
-            "population": 1147900,
-            "urban": 739100,
-            "rural": 408800
+            "population": "1147900",
+            "urban": "739100",
+            "rural": "408800"
           },
           "2004": {
-            "population": 1135400,
-            "urban": 736400,
-            "rural": 399000
+            "population": "1135400",
+            "urban": "736400",
+            "rural": "399000"
           },
           "2005": {
-            "population": 1122100,
-            "urban": 733200,
-            "rural": 388900
+            "population": "1122100",
+            "urban": "733200",
+            "rural": "388900"
           },
           "2006": {
-            "population": 1108000,
-            "urban": 729800,
-            "rural": 378200
+            "population": "1108000",
+            "urban": "729800",
+            "rural": "378200"
           },
           "2007": {
-            "population": 1096200,
-            "urban": 728700,
-            "rural": 367500
+            "population": "1096200",
+            "urban": "728700",
+            "rural": "367500"
           },
           "2008": {
-            "population": 1086000,
-            "urban": 727400,
-            "rural": 358600
+            "population": "1086000",
+            "urban": "727400",
+            "rural": "358600"
           },
           "2009": {
-            "population": 1076700,
-            "urban": 734900,
-            "rural": 341800
+            "population": "1076700",
+            "urban": "734900",
+            "rural": "341800"
           },
           "2010": {
-            "population": 1071300,
-            "urban": 7423,
-            "rural": 329000
+            "population": "1071300",
+            "urban": "742300",
+            "rural": "329000"
           },
           "2011": {
-            "population": 1065900,
-            "urban": 748900,
-            "rural": 317000
+            "population": "1065900",
+            "urban": "748900",
+            "rural": "317000"
           },
           "2012": {
-            "population": 1061200,
-            "urban": 757000,
-            "rural": 304200
+            "population": "1061200",
+            "urban": "757000",
+            "rural": "304200"
           },
           "2013": {
-            "population": 1058400,
-            "urban": 763600,
-            "rural": 294800
+            "population": "1058400",
+            "urban": "763600",
+            "rural": "294800"
           },
           "2014": {
-            "population": 1054900,
-            "urban": 768400,
-            "rural": 286500
+            "population": "1054900",
+            "urban": "768400",
+            "rural": "286500"
           },
           "2015": {
-            "population": 1052600,
-            "urban": 774600,
-            "rural": 278000
+            "population": "1052600",
+            "urban": "774600",
+            "rural": "278000"
           },
           "2016": {
-            "population": 1050100,
-            "urban": 780100,
-            "rural": 270000
+            "population": "1050100",
+            "urban": "780100",
+            "rural": "270000"
           },
           "2017": {
-            "population": 1047400,
-            "urban": 784200,
-            "rural": 263200
+            "population": "1047400",
+            "urban": "784200",
+            "rural": "263200"
           },
           "2018": {
-            "population": 1043700,
-            "urban": 786900,
-            "rural": 256800
+            "population": "1043700",
+            "urban": "786900",
+            "rural": "256800"
           },
           "2019": {
-            "population": 1039300,
-            "urban": 790500,
-            "rural": 248800
+            "population": "1039300",
+            "urban": "790500",
+            "rural": "248800"
           },
           "2020": {
-            "population": 1017976,
-            "urban": 772345,
-            "rural": 245631
+            "population": "1017976",
+            "urban": "772345",
+            "rural": "245631"
           },
           "2021": {
-            "population": 1012295,
-            "urban": 771095,
-            "rural": 231200
+            "population": "1012295",
+            "urban": "771095",
+            "rural": "231200"
           }
         }
       },
@@ -7533,119 +7533,119 @@
         "name": "Брестская область",
         "population": {
           "1999": {
-            "population": 1485100,
-            "urban": 902200,
-            "rural": 582900
+            "population": "1485100",
+            "urban": "902200",
+            "rural": "582900"
           },
           "2000": {
-            "population": 1481900,
-            "urban": 906000,
-            "rural": 575900
+            "population": "1481900",
+            "urban": "906000",
+            "rural": "575900"
           },
           "2001": {
-            "population": 1477400,
-            "urban": 908300,
-            "rural": 569100
+            "population": "1477400",
+            "urban": "908300",
+            "rural": "569100"
           },
           "2002": {
-            "population": 1469800,
-            "urban": 908400,
-            "rural": 561400
+            "population": "1469800",
+            "urban": "908400",
+            "rural": "561400"
           },
           "2003": {
-            "population": 1461000,
-            "urban": 907500,
-            "rural": 553500
+            "population": "1461000",
+            "urban": "907500",
+            "rural": "553500"
           },
           "2004": {
-            "population": 1450200,
-            "urban": 905300,
-            "rural": 544900
+            "population": "1450200",
+            "urban": "905300",
+            "rural": "544900"
           },
           "2005": {
-            "population": 1439300,
-            "urban": 903100,
-            "rural": 536200
+            "population": "1439300",
+            "urban": "903100",
+            "rural": "536200"
           },
           "2006": {
-            "population": 1426800,
-            "urban": 900100,
-            "rural": 526700
+            "population": "1426800",
+            "urban": "900100",
+            "rural": "526700"
           },
           "2007": {
-            "population": 1417800,
-            "urban": 900400,
-            "rural": 517400
+            "population": "1417800",
+            "urban": "900400",
+            "rural": "517400"
           },
           "2008": {
-            "population": 1409700,
-            "urban": 908600,
-            "rural": 501100
+            "population": "1409700",
+            "urban": "908600",
+            "rural": "501100"
           },
           "2009": {
-            "population": 1404500,
-            "urban": 912600,
-            "rural": 491900
+            "population": "1404500",
+            "urban": "912600",
+            "rural": "491900"
           },
           "2010": {
-            "population": 1399200,
-            "urban": 919500,
-            "rural": 479700
+            "population": "1399200",
+            "urban": "919500",
+            "rural": "479700"
           },
           "2011": {
-            "population": 1394800,
-            "urban": 927100,
-            "rural": 467700
+            "population": "1394800",
+            "urban": "927100",
+            "rural": "467700"
           },
           "2012": {
-            "population": 1391400,
-            "urban": 934900,
-            "rural": 456500
+            "population": "1391400",
+            "urban": "934900",
+            "rural": "456500"
           },
           "2013": {
-            "population": 1390400,
-            "urban": 943100,
-            "rural": 447300
+            "population": "1390400",
+            "urban": "943100",
+            "rural": "447300"
           },
           "2014": {
-            "population": 1388500,
-            "urban": 955000,
-            "rural": 433500
+            "population": "1388500",
+            "urban": "955000",
+            "rural": "433500"
           },
           "2015": {
-            "population": 1388900,
-            "urban": 963500,
-            "rural": 425400
+            "population": "1388900",
+            "urban": "963500",
+            "rural": "425400"
           },
           "2016": {
-            "population": 1387000,
-            "urban": 968300,
-            "rural": 418700
+            "population": "1387000",
+            "urban": "968300",
+            "rural": "418700"
           },
           "2017": {
-            "population": 1386400,
-            "urban": 973300,
-            "rural": 413100
+            "population": "1386400",
+            "urban": "973300",
+            "rural": "413100"
           },
           "2018": {
-            "population": 1384500,
-            "urban": 976400,
-            "rural": 408100
+            "population": "1384500",
+            "urban": "976400",
+            "rural": "408100"
           },
           "2019": {
-            "population": 1380300,
-            "urban": 980800,
-            "rural": 399500
+            "population": "1380300",
+            "urban": "980800",
+            "rural": "399500"
           },
           "2020": {
-            "population": 1338044,
-            "urban": 948832,
-            "rural": 389212
+            "population": "1338044",
+            "urban": "948832",
+            "rural": "389212"
           },
           "2021": {
-            "population": 1331036,
-            "urban": 947159,
-            "rural": 383877
+            "population": "1331036",
+            "urban": "947159",
+            "rural": "383877"
           }
         }
       },
@@ -13855,119 +13855,119 @@
         "name": "Гомельская область",
         "population": {
           "1999": {
-            "population": 1545100,
-            "urban": 1053900,
-            "rural": 491200
+            "population": "1545100",
+            "urban": "1053900",
+            "rural": "491200"
           },
           "2000": {
-            "population": 1538800,
-            "urban": 1055300,
-            "rural": 483500
+            "population": "1538800",
+            "urban": "1055300",
+            "rural": "483500"
           },
           "2001": {
-            "population": 1532200,
-            "urban": 1057500,
-            "rural": 474700
+            "population": "1532200",
+            "urban": "1057500",
+            "rural": "474700"
           },
           "2002": {
-            "population": 1523100,
-            "urban": 1058100,
-            "rural": 465000
+            "population": "1523100",
+            "urban": "1058100",
+            "rural": "465000"
           },
           "2003": {
-            "population": 1509700,
-            "urban": 1053900,
-            "rural": 455800
+            "population": "1509700",
+            "urban": "1053900",
+            "rural": "455800"
           },
           "2004": {
-            "population": 1496800,
-            "urban": 1050500,
-            "rural": 446300
+            "population": "1496800",
+            "urban": "1050500",
+            "rural": "446300"
           },
           "2005": {
-            "population": 1484200,
-            "urban": 1046700,
-            "rural": 437500
+            "population": "1484200",
+            "urban": "1046700",
+            "rural": "437500"
           },
           "2006": {
-            "population": 1471000,
-            "urban": 1042700,
-            "rural": 428300
+            "population": "1471000",
+            "urban": "1042700",
+            "rural": "428300"
           },
           "2007": {
-            "population": 1459400,
-            "urban": 1040200,
-            "rural": 419200
+            "population": "1459400",
+            "urban": "1040200",
+            "rural": "419200"
           },
           "2008": {
-            "population": 1449500,
-            "urban": 1042400,
-            "rural": 407100
+            "population": "1449500",
+            "urban": "1042400",
+            "rural": "407100"
           },
           "2009": {
-            "population": 1443200,
-            "urban": 1045400,
-            "rural": 397800
+            "population": "1443200",
+            "urban": "1045400",
+            "rural": "397800"
           },
           "2010": {
-            "population": 1439200,
-            "urban": 1052000,
-            "rural": 387200
+            "population": "1439200",
+            "urban": "1052000",
+            "rural": "387200"
           },
           "2011": {
-            "population": 1435000,
-            "urban": 1058900,
-            "rural": 376100
+            "population": "1435000",
+            "urban": "1058900",
+            "rural": "376100"
           },
           "2012": {
-            "population": 1429700,
-            "urban": 1066200,
-            "rural": 363500
+            "population": "1429700",
+            "urban": "1066200",
+            "rural": "363500"
           },
           "2013": {
-            "population": 1427700,
-            "urban": 1074100,
-            "rural": 353600
+            "population": "1427700",
+            "urban": "1074100",
+            "rural": "353600"
           },
           "2014": {
-            "population": 1425600,
-            "urban": 1081300,
-            "rural": 344300
+            "population": "1425600",
+            "urban": "1081300",
+            "rural": "344300"
           },
           "2015": {
-            "population": 1424000,
-            "urban": 1087100,
-            "rural": 336900
+            "population": "1424000",
+            "urban": "1087100",
+            "rural": "336900"
           },
           "2016": {
-            "population": 1422900,
-            "urban": 1092400,
-            "rural": 330500
+            "population": "1422900",
+            "urban": "1092400",
+            "rural": "330500"
           },
           "2017": {
-            "population": 1420700,
-            "urban": 1095400,
-            "rural": 325300
+            "population": "1420700",
+            "urban": "1095400",
+            "rural": "325300"
           },
           "2018": {
-            "population": 1415700,
-            "urban": 1094900,
-            "rural": 320800
+            "population": "1415700",
+            "urban": "1094900",
+            "rural": "320800"
           },
           "2019": {
-            "population": 1409900,
-            "urban": 1095400,
-            "rural": 314500
+            "population": "1409900",
+            "urban": "1095400",
+            "rural": "314500"
           },
           "2020": {
-            "population": 1375286,
-            "urban": 1059334,
-            "rural": 315952
+            "population": "1375286",
+            "urban": "1059334",
+            "rural": "315952"
           },
           "2021": {
-            "population": 1366592,
-            "urban": 1055198,
-            "rural": 311394
+            "population": "1366592",
+            "urban": "1055198",
+            "rural": "311394"
           }
         }
       },
@@ -16809,119 +16809,119 @@
         "name": "Могилёвскя область",
         "population": {
           "1999": {
-            "population": 1213500,
-            "urban": 853100,
-            "rural": 360400
+            "population": "1213500",
+            "urban": "853100",
+            "rural": "360400"
           },
           "2000": {
-            "population": 1206500,
-            "urban": 852800,
-            "rural": 353700
+            "population": "1206500",
+            "urban": "852800",
+            "rural": "353700"
           },
           "2001": {
-            "population": 1197100,
-            "urban": 851900,
-            "rural": 345200
+            "population": "1197100",
+            "urban": "851900",
+            "rural": "345200"
           },
           "2002": {
-            "population": 1186300,
-            "urban": 850000,
-            "rural": 336300
+            "population": "1186300",
+            "urban": "850000",
+            "rural": "336300"
           },
           "2003": {
-            "population": 1173300,
-            "urban": 846000,
-            "rural": 327300
+            "population": "1173300",
+            "urban": "846000",
+            "rural": "327300"
           },
           "2004": {
-            "population": 1160200,
-            "urban": 842400,
-            "rural": 317800
+            "population": "1160200",
+            "urban": "842400",
+            "rural": "317800"
           },
           "2005": {
-            "population": 1147300,
-            "urban": 839400,
-            "rural": 307900
+            "population": "1147300",
+            "urban": "839400",
+            "rural": "307900"
           },
           "2006": {
-            "population": 1134400,
-            "urban": 835900,
-            "rural": 298500
+            "population": "1134400",
+            "urban": "835900",
+            "rural": "298500"
           },
           "2007": {
-            "population": 1123600,
-            "urban": 834200,
-            "rural": 289400
+            "population": "1123600",
+            "urban": "834200",
+            "rural": "289400"
           },
           "2008": {
-            "population": 1114500,
-            "urban": 833200,
-            "rural": 281300
+            "population": "1114500",
+            "urban": "833200",
+            "rural": "281300"
           },
           "2009": {
-            "population": 1106300,
-            "urban": 834800,
-            "rural": 271500
+            "population": "1106300",
+            "urban": "834800",
+            "rural": "271500"
           },
           "2010": {
-            "population": 1097300,
-            "urban": 833000,
-            "rural": 264300
+            "population": "1097300",
+            "urban": "833000",
+            "rural": "264300"
           },
           "2011": {
-            "population": 1088100,
-            "urban": 832600,
-            "rural": 255500
+            "population": "1088100",
+            "urban": "832600",
+            "rural": "255500"
           },
           "2012": {
-            "population": 1080100,
-            "urban": 834300,
-            "rural": 245800
+            "population": "1080100",
+            "urban": "834300",
+            "rural": "245800"
           },
           "2013": {
-            "population": 1076400,
-            "urban": 836800,
-            "rural": 239600
+            "population": "1076400",
+            "urban": "836800",
+            "rural": "239600"
           },
           "2014": {
-            "population": 1072600,
-            "urban": 840700,
-            "rural": 231900
+            "population": "1072600",
+            "urban": "840700",
+            "rural": "231900"
           },
           "2015": {
-            "population": 1070800,
-            "urban": 846400,
-            "rural": 224400
+            "population": "1070800",
+            "urban": "846400",
+            "rural": "224400"
           },
           "2016": {
-            "population": 1067700,
-            "urban": 850200,
-            "rural": 217500
+            "population": "1067700",
+            "urban": "850200",
+            "rural": "217500"
           },
           "2017": {
-            "population": 1064300,
-            "urban": 852000,
-            "rural": 212300
+            "population": "1064300",
+            "urban": "852000",
+            "rural": "212300"
           },
           "2018": {
-            "population": 1058800,
-            "urban": 851600,
-            "rural": 207200
+            "population": "1058800",
+            "urban": "851600",
+            "rural": "207200"
           },
           "2019": {
-            "population": 1052900,
-            "urban": 851800,
-            "rural": 201100
+            "population": "1052900",
+            "urban": "851800",
+            "rural": "201100"
           },
           "2020": {
-            "population": 1014843,
-            "urban": 810706,
-            "rural": 204137
+            "population": "1014843",
+            "urban": "810706",
+            "rural": "204137"
           },
           "2021": {
-            "population": 1007844,
-            "urban": 807234,
-            "rural": 200610
+            "population": "1007844",
+            "urban": "807234",
+            "rural": "200610"
           }
         }
       },
@@ -23119,119 +23119,119 @@
         "name": "Витебская область",
         "population": {
           "1999": {
-            "population": 1377200,
-            "urban": 923100,
-            "rural": 454100
+            "population": "1377200",
+            "urban": "923100",
+            "rural": "454100"
           },
           "2000": {
-            "population": 1366400,
-            "urban": 921400,
-            "rural": 445000
+            "population": "1366400",
+            "urban": "921400",
+            "rural": "445000"
           },
           "2001": {
-            "population": 1354600,
-            "urban": 923900,
-            "rural": 430700
+            "population": "1354600",
+            "urban": "923900",
+            "rural": "430700"
           },
           "2002": {
-            "population": 1340000,
-            "urban": 921100,
-            "rural": 418900
+            "population": "1340000",
+            "urban": "921100",
+            "rural": "418900"
           },
           "2003": {
-            "population": 1323300,
-            "urban": 916500,
-            "rural": 406800
+            "population": "1323300",
+            "urban": "916500",
+            "rural": "406800"
           },
           "2004": {
-            "population": 1306400,
-            "urban": 913800,
-            "rural": 392600
+            "population": "1306400",
+            "urban": "913800",
+            "rural": "392600"
           },
           "2005": {
-            "population": 1289500,
-            "urban": 906200,
-            "rural": 383300
+            "population": "1289500",
+            "urban": "906200",
+            "rural": "383300"
           },
           "2006": {
-            "population": 1273800,
-            "urban": 900700,
-            "rural": 373100
+            "population": "1273800",
+            "urban": "900700",
+            "rural": "373100"
           },
           "2007": {
-            "population": 1259400,
-            "urban": 897900,
-            "rural": 361500
+            "population": "1259400",
+            "urban": "897900",
+            "rural": "361500"
           },
           "2008": {
-            "population": 1247300,
-            "urban": 895900,
-            "rural": 351400
+            "population": "1247300",
+            "urban": "895900",
+            "rural": "351400"
           },
           "2009": {
-            "population": 1237500,
-            "urban": 896100,
-            "rural": 341400
+            "population": "1237500",
+            "urban": "896100",
+            "rural": "341400"
           },
           "2010": {
-            "population": 1229400,
-            "urban": 899100,
-            "rural": 330300
+            "population": "1229400",
+            "urban": "899100",
+            "rural": "330300"
           },
           "2011": {
-            "population": 1221800,
-            "urban": 903000,
-            "rural": 318800
+            "population": "1221800",
+            "urban": "903000",
+            "rural": "318800"
           },
           "2012": {
-            "population": 1214100,
-            "urban": 908400,
-            "rural": 305700
+            "population": "1214100",
+            "urban": "908400",
+            "rural": "305700"
           },
           "2013": {
-            "population": 1208000,
-            "urban": 910200,
-            "rural": 297800
+            "population": "1208000",
+            "urban": "910200",
+            "rural": "297800"
           },
           "2014": {
-            "population": 1202100,
-            "urban": 912000,
-            "rural": 290100
+            "population": "1202100",
+            "urban": "912000",
+            "rural": "290100"
           },
           "2015": {
-            "population": 1198500,
-            "urban": 915400,
-            "rural": 283100
+            "population": "1198500",
+            "urban": "915400",
+            "rural": "283100"
           },
           "2016": {
-            "population": 1193500,
-            "urban": 916600,
-            "rural": 276900
+            "population": "1193500",
+            "urban": "916600",
+            "rural": "276900"
           },
           "2017": {
-            "population": 1188000,
-            "urban": 916300,
-            "rural": 271700
+            "population": "1188000",
+            "urban": "916300",
+            "rural": "271700"
           },
           "2018": {
-            "population": 1180200,
-            "urban": 914000,
-            "rural": 266200
+            "population": "1180200",
+            "urban": "914000",
+            "rural": "266200"
           },
           "2019": {
-            "population": 1171600,
-            "urban": 911700,
-            "rural": 259900
+            "population": "1171600",
+            "urban": "911700",
+            "rural": "259900"
           },
           "2020": {
-            "population": 1120364,
-            "urban": 870383,
-            "rural": 249981
+            "population": "1120364",
+            "urban": "870383",
+            "rural": "249981"
           },
           "2021": {
-            "population": 1112098,
-            "urban": 865951,
-            "rural": 246147
+            "population": "1112098",
+            "urban": "865951",
+            "rural": "246147"
           }
         }
       },
@@ -32479,17 +32479,17 @@
           "2019": {
             "population": 3421200,
             "urban": 2799000,
-            "rural": 622200
+            "rural": "622200"
           },
           "2020": {
-            "population": 3483132,
-            "urban": 2818720,
-            "rural": 664412
+            "population": "3483132",
+            "urban": "2818720",
+            "rural": "664412"
           },
           "2021": {
-            "population": 3472720,
-            "urban": 2809571,
-            "rural": 663149
+            "population": "3472720",
+            "urban": "2809571",
+            "rural": "663149"
           }
         }
       },
