@@ -5,26 +5,9 @@
       "type": "Feature",
       "properties": {
         "name": "Гродненская область",
-        "population": {
-          "2015": {
-            "allPopulation": 1052600
-          },
-          "2016": {
-            "allPopulation": 72600
-          },
-          "2017": {
-            "allPopulation": 106600
-          },
-          "2018": {
-            "allPopulation": 152600
-          },
-          "2019": {
-            "allPopulation": 40
-          },
-          "2020": {
-            "allPopulation": 3
-          }
-        }
+        "population": 1017976,
+        "urban": 772345,
+        "selskoe": 245631
       },
       "geometry": {
         "type": "Polygon",
