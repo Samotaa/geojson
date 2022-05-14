@@ -7435,8 +7435,7 @@
         "cities": 21,
         "poselkiGorType": 8,
         "villages": 21152,
-        "area": 32,8
-        }
+        "area": 32,8        
       },
       "geometry": {
         "type": "Polygon",
